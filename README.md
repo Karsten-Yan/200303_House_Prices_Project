@@ -36,5 +36,5 @@ The notebook is split into 9 subcategories.
 7. Visualisation:
   * visualisations for newly constructed homes
   * comparing quality and quantity and some basic features
-A. Summary
-B. Future Work
+8. Summary
+9. Future Work
