@@ -13,7 +13,7 @@ You can find the non technical presentation under [king_county_presentation.pdf]
 The notebook is split into 9 subcategories.
 
 1.  Business understanding:
-  * Formulation of target
+   * Formulation of target
 2.  Data mining:
   * Import of necessary modules and accessing raw data into pandas data frame
 3.  Data Cleaning:
